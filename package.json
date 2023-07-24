@@ -2,14 +2,14 @@
   "name": "book_shelf",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://OAndrijchuk.github.io/book_shelf",
+  "homepage": "https://GoitStudentsWorks.github.io/js_56_OAndrijchuk",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /book_shelf/"
+    "build": "parcel build src/*.html --public-url /js_56_OAndrijchuk/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/OAndrijchuk/book_shelf.git"
+    "url": "git+https://github.com/GoitStudentsWorks/js_56_OAndrijchuk.git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
